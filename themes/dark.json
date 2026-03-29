@@ -92,7 +92,7 @@
     "editorInlayHint.typeForeground": "#E4E4E442",
     "editorLineNumber.activeForeground": "#E4E4E4EB",
     "editorLineNumber.foreground": "#E4E4E442",
-    "editorLink.activeForeground": "#E4E4E4EB",
+    "editorLink.activeForeground": "#61afef",
     "editorMarkerNavigation.background": "#ffffff70",
     "editorMarkerNavigationError.background": "#E34671C0",
     "editorMarkerNavigationWarning.background": "#CCCCCC",
