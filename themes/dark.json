@@ -439,7 +439,7 @@
         "parameter.variable"
       ],
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "",
         "foreground": "#d19a66"
       }
     },
