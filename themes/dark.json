@@ -306,14 +306,14 @@
       "name": "Built-in constant",
       "scope": "constant.language",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#6ec8db"
       }
     },
     {
       "name": "User-defined constant",
       "scope": ["constant.character", "constant.other"],
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#6ec8db"
       }
     },
     {
@@ -352,7 +352,7 @@
       "name": "Types",
       "scope": "storage.type",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#6ec8db"
       }
     },
     {
@@ -453,7 +453,7 @@
       "name": "Tag Class and ID",
       "scope": ["entity.name.tag.class", "entity.name.tag.id"],
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#6ec8db"
       }
     },
     {
@@ -467,21 +467,21 @@
       "name": "Library constant",
       "scope": "support.constant",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#6ec8db"
       }
     },
     {
       "name": "Library class/type",
       "scope": ["support.type", "support.variable"],
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#6ec8db"
       }
     },
     {
       "name": "Json Property",
       "scope": "support.dictionary.json",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#6ec8db"
       }
     },
     {
@@ -509,7 +509,7 @@
         "entity.other.attribute-name.pseudo-element.sass"
       ],
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#6ec8db"
       }
     },
     {
@@ -533,7 +533,7 @@
         "variable.sass"
       ],
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#6ec8db"
       }
     },
     {
@@ -564,7 +564,7 @@
         "function.sass"
       ],
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#6ec8db"
       }
     },
     {
@@ -586,7 +586,7 @@
       "name": "Invalid deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "background": "#56b6c2",
+        "background": "#6ec8db",
         "foreground": "#F8F8F0"
       }
     },
@@ -594,7 +594,7 @@
       "name": "JSON String",
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#6ec8db"
       }
     },
     {
@@ -635,7 +635,7 @@
     {
       "scope": "constant.numeric.line-number.find-in-files - match",
       "settings": {
-        "foreground": "#56b6c2A0"
+        "foreground": "#6ec8dbA0"
       }
     },
     {
@@ -710,7 +710,7 @@
       "name": "Markup: Raw",
       "scope": ["markup.inline.raw", "markup.raw.block.markdown"],
       "settings": {
-        "foreground": "#56b6c2"
+        "foreground": "#6ec8db"
       }
     },
     {
