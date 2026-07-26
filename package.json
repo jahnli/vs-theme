@@ -3,7 +3,7 @@
   "displayName": "VS Theme",
   "description": "Dark Theme",
   "version": "0.1.0",
-  "publisher": "local",
+  "publisher": "jahnli",
   "engines": {
     "vscode": "^1.80.0"
   },
