@@ -2,8 +2,9 @@
   "name": "vs-theme",
   "displayName": "VS Theme",
   "description": "Dark Theme",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "publisher": "jahnli",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.80.0"
   },
